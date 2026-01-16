@@ -1,0 +1,58 @@
+body {
+    background-color: beige;
+    color: #f76c5e;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+main {
+    color: #f5e6e4;
+    margin: 0% 23%;
+    padding: 20px 30px 30px 30px;
+    background-color: #f76c5e;
+    border-radius: 20px;
+}
+
+footer {
+    background-color: #f76c5e;
+    color: #f5e6e4;
+    margin-top: 80px;
+    padding: 20px;
+}
+
+.zoneProposition {
+    padding: 20px;
+    background-color: beige;
+    color: #f76c5e;
+    border-radius: 10px;
+}
+
+.zoneSaisie input {
+    padding: 5px 150px 5px 180px;
+    margin-top: 5px;
+    margin-right: 0px;
+    border-radius: 10px;
+    border-color: #f76c5e;
+    color: #f76c5e;
+}
+
+button {
+    padding: 5px 40px;
+    background-color: beige;
+    color: #f76c5e;
+    border-radius: 10px;
+    border-color: #f76c5e;
+}
+
+button:hover {
+    color: #f5e6e4;
+    background: linear-gradient(90deg, #bb5b52, #c36092);
+    border-color: #f5e6e4;
+}
+
+.zoneScore,
+.optionSource {
+    margin: 10px;
+}
+
+@media screen {}

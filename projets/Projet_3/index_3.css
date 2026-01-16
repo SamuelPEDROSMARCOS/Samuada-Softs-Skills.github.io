@@ -1,0 +1,184 @@
+main{
+    line-height: 25px;
+    padding: 0px 170px;
+    padding-top: 50px;
+    background-color: rgb(238, 236, 236);
+    padding-bottom: 50px;
+}
+header{
+    background-image: url("images_3/im2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;/*Permet de définir l'image sur toute la longuer de la page*/
+    background-position: center;
+}
+.Robbie-Lens{
+    display: flex;
+    background-color: rgba(73, 63, 40, 0.4); 
+    margin: 0px 120px 0px 120px;
+}
+.two{
+    display: flex;
+}
+.two img{
+    height: 70px;
+    width: 80px;
+}
+.three{
+    color: greenyellow;
+}
+.four a{
+    text-decoration: none;
+    padding-left: 30px;
+    color: #FFFFFF;
+}
+.four a:visited{
+    color: white;
+}
+.four a:hover{
+    color: greenyellow;
+}
+.four p{
+    padding-left: 400px;
+}
+.five{    
+    text-align: center;
+    color: #FFF;
+    line-height: 25px;
+    word-spacing: 3px;
+    padding: 100px 115px 150px 115px;
+}
+.five h1, .five p{
+    background-color: rgba(73, 63, 40, 0.4); 
+}
+.six{
+    display: flex;
+    gap: 20px;
+    padding: 0px 20px 30px 20px;
+}
+.six div{
+    background-color: rgba(163, 206, 255, 0.7);
+    padding: 20px;
+    text-align: center;
+}
+.six img{
+    height: 70px;
+    width: 70px;
+}
+.seven{
+    display: flex;
+    gap: 20px;
+    text-align: justify;
+}
+.seven img{
+    width: 490px;
+    height: 430px;
+}
+.eight{
+    display: flex;
+    gap: 20px;
+    padding-top: 30px;
+    text-align: justify;
+}
+.eight h2{
+    text-align: center;
+}
+.eight img{
+    height: 350px;
+    width: 310px;
+}
+.nine{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    padding-top: 30px;
+}
+.nine img{
+    height: 500px;
+    width: 310px;
+}
+.ten{
+    display: flex;
+    gap: 20px;
+    color: white;
+    padding: 0px 170px;
+}
+.eleven{
+    display: flex;
+    gap: 20px;
+}
+.eleven div{
+    border: wheat dotted;
+    padding: 20px 130px 20px 20px;
+}
+.eleven img{
+    height: 40px;
+    width: 40px;
+}
+.twelve{
+    display: flex;
+    background-color: rgb(66, 236, 14);
+    color: rgb(255, 255, 255);
+    padding: 8px 15px;
+    border: #FFFFFF;
+    border-radius: 5px;
+    margin-left: 1170px;
+    position: relative;
+}
+.twelve img{
+    height: 25px;
+    width: 25px;
+    padding-right: 10px;
+}
+
+footer{
+    line-height: 25px;
+    background-color: rgb(73, 135, 206);
+}
+footer form{
+    background-color: rgb(66, 40, 136);
+    padding: 50px 10px 0px 10px;
+}
+footer form input, .thirteen form input{
+    height: 30px;
+    margin-bottom: 10px;
+    width: 200px;
+}
+footer form textarea, .thirteen form textarea{
+    height: 60px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+footer form button, .thirteen form button{
+    background-color: red;
+    color: #FFFFFF;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+.header2{
+    background-image: url("images_3/im17.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;/*Permet de définir l'image sur toute la longuer de la page*/
+    background-position: center;
+}
+.thirteen{
+    display: flex;
+    background-color: silver;
+}
+.header3{
+    background-image: url("images_3/im18.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+.fourteen{
+    background-color: rgb(203, 215, 228);
+}
+.fifteen{
+    display: flex;
+    gap: 20px;
+}
+.fifteen img{
+    height: 400px;
+    width: 500px;
+}
